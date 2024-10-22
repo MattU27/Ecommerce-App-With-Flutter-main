@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449943889193",
+    "project_id": "techtreasure-3f8ff",
+    "storage_bucket": "techtreasure-3f8ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449943889193:android:dedd2d6a90e37a257f4338",
+        "android_client_info": {
+          "package_name": "com.example.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtVvVjyajnsm4SKlOw6VYeBjNUrTAXl_E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
